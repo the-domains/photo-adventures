@@ -1,6 +1,6 @@
 name: 'Photo Adventures '
 favicon: null
-layout_spectrum: 0.0772808042820543
+layout_spectrum: 0.99936
 typography_spectrum: 0.1397765390574932
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.04804814653471112
-  lightness: 0.7764602317474782
-  saturation: 0.2439443483017385
-  rhythmicContrast: 0.7734343754127622
+    - '#000000'
+    - '#ffffff'
+    - '#a1a9ac'
+    - '#653515'
+    - '#ae5b18'
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
