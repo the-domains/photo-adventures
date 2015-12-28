@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Photo Adventures ]]></title>
         <description><![CDATA[Photo Adventures ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photo-adventures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 14:30:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 14:45:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photo-adventures/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba0e1f5b-1d53-49d9-ac95-476c013dd8a4.jpg" alt="Bound For Nowhere" title="">]]></description>
+            <link>https://thegrid.ai/photo-adventures/add3a333-3c73-43ff-99b1-0bf46f28a632/index.html</link>
+            <guid isPermaLink="false">add3a333-3c73-43ff-99b1-0bf46f28a632</guid>
+            <pubDate>Mon, 28 Dec 2015 14:45:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sunrise on Samui]]></title>
             <description><![CDATA[<article><h1>Sunrise on Samui</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d22030e6048705e390fc54e5f884b355e3227d9.jpg"></article>]]></description>
-            <link>undefinedsunrise-on-samui/index.html</link>
+            <link>https://thegrid.ai/photo-adventures/sunrise-on-samui/index.html</link>
             <guid isPermaLink="false">4ee8abd1-908f-4451-b009-52ec11c5721d</guid>
             <pubDate>Mon, 28 Dec 2015 14:30:35 GMT</pubDate>
         </item>
