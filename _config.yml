@@ -1,7 +1,7 @@
 name: 'Photo Adventures '
 favicon: null
-layout_spectrum: 0.25724
-typography_spectrum: 0.1397765390574932
+layout_spectrum: 0.99564
+typography_spectrum: 0.637
 title: Photo Galleries
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
     - '#ffffff'
-    - '#a1a9ac'
-    - '#653515'
-    - '#ae5b18'
-  brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.8125
-  rhythmicContrast: 0.25
+    - '#040404'
+    - '#404040'
+    - '#808080'
+    - '#aaaaaa'
+  brandStrength: 0.75
+  lightness: 0.125
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
