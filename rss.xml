@@ -4,7 +4,7 @@
         <description><![CDATA[Adventures in Photography]]></description>
         <link>https://thegrid.ai/photo-adventures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 08:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 08:36:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photo-adventures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cityscapes]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/photo-adventures/91d53dbe-7b90-487f-89c7-b26b1162766a/index.html</link>
             <guid isPermaLink="false">91d53dbe-7b90-487f-89c7-b26b1162766a</guid>
             <pubDate>Mon, 28 Dec 2015 17:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Architecture ]]></title>
-            <description><![CDATA[<article><h1>Architecture </h1><p>Architecture </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5dd6938e37219ec3c6801f7aa95a1e74696ad66.jpg"></article>]]></description>
-            <link>https://thegrid.ai/photo-adventures/e55f1ac9-8631-45dd-90c3-f3e2b961ac7d/index.html</link>
-            <guid isPermaLink="false">e55f1ac9-8631-45dd-90c3-f3e2b961ac7d</guid>
-            <pubDate>Tue, 29 Dec 2015 08:00:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
