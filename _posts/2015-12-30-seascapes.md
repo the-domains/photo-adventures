@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T06:05:48.568Z'
-dateModified: '2016-03-19T06:05:47.661Z'
+datePublished: '2016-03-19T06:08:19.563Z'
+dateModified: '2016-03-19T06:08:09.946Z'
 title: Seascapes
 author: []
 sourcePath: _posts/2015-12-30-seascapes.md
